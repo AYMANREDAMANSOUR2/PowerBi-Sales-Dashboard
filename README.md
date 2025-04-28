@@ -11,8 +11,8 @@ Open the .pbix file in Power BI Desktop to explore the report.
 ## 🖼️ Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/Screenshot%202025-04-28%20224658.png)
+![Dashboard Overview](Screenshots/screenshots/Screenshot%202025-04-28%20224658.png)
 
 ### Monthly Sales Trends
-![Monthly Sales Trends](Screenshots/Screenshot%202025-04-28%20224743.png)
+![Monthly Sales Trends](Screenshots/screenshots/Screenshot%202025-04-28%20224743.png)
 
